@@ -1461,9 +1461,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFZ8QZNL40Y</string>
+			<string>FVFZD0Z4L40Y</string>
 			<key>SystemUUID</key>
-			<string>1390C727-DDF8-4E8F-BB4E-62E1DEAEF031</string>
+			<string>16F4A0A2-2CF3-4F7E-AD1E-F41CF075DB82</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1472,7 +1472,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF934802CD00001H</string>
+			<string>FVF937270J900001F</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
@@ -1484,9 +1484,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFCNGZLL40Y</string>
+			<string>FVFZD0Z4L40Y</string>
 			<key>SystemUUID</key>
-			<string>09438617-6B3B-4949-B7E3-A20756A71850</string>
+			<string>16F4A0A2-2CF3-4F7E-AD1E-F41CF075DB82</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1497,22 +1497,22 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/+f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>FVF934802CD00001H</string>
+			<string>FVF937270J900001F</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SystemSerialNumber</key>
-			<string>FVFZ8QZNL40Y</string>
+			<string>FVFZD0Z4L40Y</string>
 			<key>SystemUUID</key>
-			<string>1390C727-DDF8-4E8F-BB4E-62E1DEAEF031</string>
+			<string>16F4A0A2-2CF3-4F7E-AD1E-F41CF075DB82</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>08/29/2022</string>
+			<string>03/04/2023</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>1916.40.2.0.0</string>
+			<string>1968.100.17.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -1522,7 +1522,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>BoardSerialNumber</key>
-			<string>FVF934802CD00001H</string>
+			<string>FVF937270J900001F</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1532,7 +1532,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>FVFZ8QZNL40Y</string>
+			<string>FVFZD0Z4L40Y</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1556,9 +1556,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFZ8QZNL40Y</string>
+			<string>FVFZD0Z4L40Y</string>
 			<key>SystemUUID</key>
-			<string>1390C727-DDF8-4E8F-BB4E-62E1DEAEF031</string>
+			<string>16F4A0A2-2CF3-4F7E-AD1E-F41CF075DB82</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
