@@ -1,9 +1,9 @@
 # dell-vostro-5481-hackintosh
 Hackintosh for DELL Vostro 5481 with OpenCore
 
-The AppleALC kext is a custom build from my repo BunoBBS/AppleALC
+> The AppleALC kext is a custom build from my repo BunoBBS/AppleALC
 
-# MacOS Ventura 13.4
+# MacOS Ventura 13.5.2
 
 ## What works
 - Wifi (Airport and airdrop[? theoretically, but not tested])
