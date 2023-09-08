@@ -1372,7 +1372,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcverbs=1 keepsyms=1 nv_disable=1 -wegnoegpu swd_panic=1  alcid=15 -nobiooff -igfxblr -igfxdbeo -hbfxdbg -hbfxbeta</string>
+				<string>alcverbs=1 keepsyms=1 nv_disable=1 -wegnoegpu swd_panic=1  alcid=15 -nobiobeta -nobiooff -igfxblr -igfxdbeo -igfxblt -igfxfw=2</string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 				<key>prev-lang:kbd</key>
