@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>90</LogNumber>
-    <LogTimeStamp>10/25/2023 22:11:13</LogTimeStamp>
+    <LogNumber>118</LogNumber>
+    <LogTimeStamp>01/02/2024 15:04:23</LogTimeStamp>
     <ePSA_Data>
       <Result>Abort</Result>
-      <ReturnCode>BOOT_F2</ReturnCode>
+      <ReturnCode>BOOT_SHUTDOWN</ReturnCode>
       <DevicesTested>Memory, Hard Drive</DevicesTested>
       <ePSAFullVersion>4306.21</ePSAFullVersion>
-      <ePSAInvocationCount>1</ePSAInvocationCount>
+      <ePSAInvocationCount>10</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
       <ErrorCategory>NO_BOOT</ErrorCategory>
